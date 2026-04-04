@@ -105,11 +105,3 @@ Linux Guardian checks for:
 2. **Suspicious Processes** - netcat, nmap, backdoors
 3. **Unusual Network Connections** - suspicious ports
 4. **Rootkit Indicators** - known malware patterns
-
-## License
-
-MIT License
-
-## Author
-
-Created for Linux learning and portfolio building.
